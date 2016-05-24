@@ -6,9 +6,11 @@
   - Con otros documentos
   - Con el contexto
   - Con entes específicos
-- Problema 3: Escalar el sistema de información **¿No entiendo esta parte?**
+- Problema 3: Escalar el sistema de información
+	Una vez se encuentra un sistema para estructurar la información hay que verificar su capacidad de procesar una gran cantidad de documentos, en algunos casos la cantidad de documentos a estructurar supera la capacidad de una persona o personas (miles de documentos) en este caso se deben preveer herramientas para que las máquinas puedan  ayudar en ese proceso.  
 - Problema 4: Compartir y colaborar con la información
 - Problema 5: Recolección de información (¿Qué espero)
+- Problema 6: Información reproducible y copias de respaldo
 
 ### Propuestas a problemas usando la wiki
 - Problema 1:
@@ -18,6 +20,10 @@
 - Problema 3:
 
 - Problema 4:
+
+### Posibles soluciones a problemas usando Emacs-Org
+
+[soluciones_emacs_org_mode](soluciones_emacs_org_mode.org)
 
 ## Ideas sueltas:
 - Retormar buenas prácticas de la presentación de inspiralab sobre formatos de texto plano, que pueda abrir un humano sin restricciones y también pueda entender una máquina

@@ -1,0 +1,18 @@
+* Problema 1: Clasificar Información
+** Estructura de Arbol / Outline
+** Relacionar Información con Tareas y Fechas
+*** TODO 
+*** Schedule, Deadline, Timestamp
+* Problema 2: Relacionar Información
+** Tags
+** Links 
+** Relacionar de manera semántica
+- [[http://www-public.tem-tsp.eu/~berger_o/test-org-publishing-rdfa.html][How to publish org-mode to HTML5+RDFa]]
+  - [[https://youtu.be/OyI3DVqllx4][Video]]
+
+* Problema 3: Escalar el sistema de información
+
+** Importar 
+
+
+
