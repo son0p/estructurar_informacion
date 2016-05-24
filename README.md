@@ -21,7 +21,7 @@
 - Problema 4:
 
 ### Posibles soluciones a problemas usando Emacs-Org
-	- [soluciones_emacs_org_mode.org](soluciones_emacs_org_mode.org)
+	 [soluciones_emacs_org_mode](soluciones_emacs_org_mode.org)
 
 ## Ideas sueltas:
 - Retormar buenas prácticas de la presentación de inspiralab sobre formatos de texto plano, que pueda abrir un humano sin restricciones y también pueda entender una máquina
