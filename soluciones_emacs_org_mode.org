@@ -10,4 +10,9 @@
 - [[http://www-public.tem-tsp.eu/~berger_o/test-org-publishing-rdfa.html][How to publish org-mode to HTML5+RDFa]]
   - [[https://youtu.be/OyI3DVqllx4][Video]]
 
+* Problema 3: Escalar el sistema de información
+
+** Importar 
+
+
 
