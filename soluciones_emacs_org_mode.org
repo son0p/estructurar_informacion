@@ -16,7 +16,7 @@
 *** Schedule  
 SCHEDULED: <2016-06-08 Wed>
 *** Deadline 
-DEADLINE: <2016-06-10 Fri>
+DEADLINE: <2016-06-07 Tue>
 *** Timestamp  <2016-06-08 Wed>
 * Problema 1: Clasificar Información
 ** Foco / Contexto
@@ -30,7 +30,6 @@ DEADLINE: <2016-06-10 Fri>
 ***** Sube
 ***** Baja
 ***** Indenta
-
 
 * Problema 2: Relacionar Información
 ** Relacionar Información con Tareas y Fechas
@@ -50,6 +49,12 @@ C-c a m Busca los tags en un documento
 * Problema 3: Escalar el sistema de información
 
 ** Importar
+
+* Problema 4: Compartir y colaborar con la información 
+
+
+
+
 
 
 
