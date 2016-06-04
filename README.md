@@ -1,6 +1,6 @@
 # Estructurar Información
 ## Temas:
-- Problema 0: Extraer información
+- Problema 0: Extraer/Recolectar información
 - Problema 1: Clasificar Información
 - Problema 2: Relacionar información
   - Con el mismo documento
@@ -9,12 +9,11 @@
   - Con entes específicos
 - Problema 3: Escalar el sistema de información
 	Una vez se encuentra un sistema para estructurar la información hay que verificar su capacidad de procesar una gran cantidad de documentos, en algunos casos la cantidad de documentos a estructurar supera la capacidad de una persona o personas (miles de documentos) en este caso se deben preveer herramientas para que las máquinas puedan  ayudar en ese proceso.
-- Problema 4: Compartir y colaborar con la información
-  * 4.1 Versiones de la información
-  * 4.2 Colaboraciones y responsables
-  * 4.3 Utilidad de la información
-- Problema 5: Recolección de información (¿Qué espero)
-- Problema 6: Información reproducible y copias de respaldo
+ - Problema 4: Compartir y colaborar con la información
+     Versiones, Autores, Conflictos
+ - Problema 5: Presentar la información
+     Visualización, indicadores, fenómenos
+ - Problema 6: Información reproducible y copias de respaldo
 
 ### Propuestas a problemas usando la wiki
 - Problema 1:
