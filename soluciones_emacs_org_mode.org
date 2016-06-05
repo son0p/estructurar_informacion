@@ -20,6 +20,7 @@ DEADLINE: <2016-06-07 Tue>
 *** Timestamp  <2016-06-08 Wed>
 * Problema 1: Clasificar Información
 ** Foco / Contexto
+"Las convocatorias públicas a proyectos culturales son uno de los aciertos más importantes  en los últimos años. Abrir las puertas a proyectos nuevos y diversos, sin que la elección  esté mediada por afinidad política es un avance fundamental en una sociedad democrática.  Las becas de creación han hecho que muchos artistas puedan desarrollar sus proyectos de  una manera digna y que podamos ver cada año nuevas propuestas que refrescan la escena  artística. Sin embargo, una de las debilidades de este proceso es la formación, Medellín es  una ciudad desigual, solo el 20% de los jóvenes accede a la Universidad, es decir que más  del 80% de los proyectos comunitarios no cuentan con la formación necesaria en muchas  ocasiones para participar en las convocatorias, o si lo hacen no acceden a ellas, ya que la  calificación es inferior a la media. Esta pregunta está en el aire, se han hecho algunos  esfuerzos, pero todavía quedan muchos procesos por fuera de la posibilidad de acceder a  estos recursos."
 ** Asunto / Comentario
 ** Establecido / Nuevo
 ** Herramietas
@@ -30,6 +31,9 @@ DEADLINE: <2016-06-07 Tue>
 ***** Sube
 ***** Baja
 ***** Indenta
+*** Tags
+*** Grep
+grep cultura ~/daquina/dataColciencias/*.*
 
 * Problema 2: Relacionar Información
 ** Relacionar Información con Tareas y Fechas
@@ -51,6 +55,32 @@ C-c a m Busca los tags en un documento
 ** Importar
 
 * Problema 4: Compartir y colaborar con la información 
+
+* Problema 5: Presentar la información
+
+** Tablas
+http://www.elmundo.com/portal/cultura/cultural/el_caso_del_presupuesto_a_la_cultura_.php#.V1MyYYx9mlc
+|  año |      Balance | presupuesto |
+| 2002 |  16172915838 |             |
+| 2003 |  26654497347 |             |
+| 2004 |  22951333634 |             |
+| 2005 |  64420541607 |             |
+| 2006 |  67355706906 |             |
+| 2007 |  55714149811 |             |
+| 2008 |  61018195414 |             |
+| 2009 |  93830065138 |             |
+| 2010 | 116077003300 |             |
+| 2011 |  97030951078 |             |
+|------+--------------+-------------|
+| 2011 |              | 21000000000 |
+| 2012 |              | 42000000000 |
+|      |              |             |
+#+TBLFM: @3$3=@4$3-21000000000
+
+
+
+
+
 
 
 
