@@ -1,4 +1,4 @@
-* Problema 0: Extraer Información
+* Problema: Extraer Información
 ** Texto capturado de un PDF
 ** Estructura de Arbol / Outline
 *** Subtitulo 2
@@ -18,7 +18,7 @@ SCHEDULED: <2016-06-08 Wed>
 *** Deadline 
 DEADLINE: <2016-06-07 Tue>
 *** Timestamp  <2016-06-08 Wed>
-* Problema 1: Clasificar Información
+* Problema: Clasificar Información
 ** Foco / Contexto
 "Las convocatorias públicas a proyectos culturales son uno de los aciertos más importantes  en los últimos años. Abrir las puertas a proyectos nuevos y diversos, sin que la elección  esté mediada por afinidad política es un avance fundamental en una sociedad democrática.  Las becas de creación han hecho que muchos artistas puedan desarrollar sus proyectos de  una manera digna y que podamos ver cada año nuevas propuestas que refrescan la escena  artística. Sin embargo, una de las debilidades de este proceso es la formación, Medellín es  una ciudad desigual, solo el 20% de los jóvenes accede a la Universidad, es decir que más  del 80% de los proyectos comunitarios no cuentan con la formación necesaria en muchas  ocasiones para participar en las convocatorias, o si lo hacen no acceden a ellas, ya que la  calificación es inferior a la media. Esta pregunta está en el aire, se han hecho algunos  esfuerzos, pero todavía quedan muchos procesos por fuera de la posibilidad de acceder a  estos recursos."
 ** Asunto / Comentario
@@ -33,9 +33,11 @@ DEADLINE: <2016-06-07 Tue>
 ***** Indenta
 *** Tags
 *** Grep
+#+BEGIN_SRC shell
 grep cultura ~/daquina/dataColciencias/*.*
+#+END_SRC
 
-* Problema 2: Relacionar Información
+* Problema: Relacionar Información
 ** Relacionar Información con Tareas y Fechas
 *** TODO 
 *** Schedule, Deadline, Timestamp
@@ -50,13 +52,13 @@ C-c a m Busca los tags en un documento
   - [[https://youtu.be/OyI3DVqllx4][Video]]
   - [[https://www-public.tem-tsp.eu/~berger_o/weblog/2015/04/21/how-to-publish-an-html5rdfa-web-site-from-org-mode/][Resumen]]
 
-* Problema 3: Escalar el sistema de información
+* Problema: Escalar el sistema de información
 
 ** Importar
 
-* Problema 4: Compartir y colaborar con la información 
+* Problema: Compartir y colaborar con la información 
 
-* Problema 5: Presentar la información
+* Problema: Presentar la información
 
 ** Tablas
 http://www.elmundo.com/portal/cultura/cultural/el_caso_del_presupuesto_a_la_cultura_.php#.V1MyYYx9mlc

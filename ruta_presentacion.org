@@ -39,7 +39,9 @@ movimientos reproducible research, (+ud puede decir lo que sea pero a la gente y
 *** Open Data
 muy potente a nivel gubernamental, un agente extranjero de verificación podría exigir este tipo de prácticas en algún proceso.
 ¿what the white house needs from you? https://www.oreilly.com/ideas/what-the-white-house-needs-from-you
-http://datos.gov.co/frm/buscador/frmBuscador.aspx  datos abiertos de colombia
+http://datos.gov.co/frm/buscador/frmBuscador.aspx  
+
+**** datos abiertos de colombia
 Colombia puede ser medido por organismos internacionales por el indicador de “que tanto tiene abiertos sus datos”
 Participación pública
 
