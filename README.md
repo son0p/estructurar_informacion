@@ -12,18 +12,22 @@
   - Con entes específicos
 
 ### Problema: Escalar el sistema de información
-	Una vez se encuentra un sistema para estructurar la información hay que verificar su capacidad de procesar una gran cantidad de documentos, en algunos casos la cantidad de documentos a estructurar supera la capacidad de una persona o personas (miles de documentos) en este caso se deben preveer herramientas para que las máquinas puedan  ayudar en ese proceso.
+    
+   Una vez se encuentra un sistema para estructurar la información hay que verificar su capacidad de procesar una gran cantidad de documentos, en algunos casos la cantidad de documentos a estructurar supera la capacidad de una persona o personas (miles de documentos) en este caso se deben preveer herramientas para que las máquinas puedan  ayudar en ese proceso.
 
 ### Problema: Compartir y colaborar con la información
-     Versiones, Autores, Conflictos
+     
+ Versiones, Autores, Conflictos
 
 ### Problema: Presentar la información
-     Visualización, indicadores, fenómenos
+     
+   Visualización, indicadores, fenómenos
 
 ### Problema: Información reproducible y copias de respaldo
 
-### Problema 7: Organizar los datos en formas que faciliten la manipulación, el análisis y la sintetización
-     Data-wrangling, Tidy data -> https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf http://openrefine.org http://vita.had.co.nz/papers/tidy-data.pdf https://ramnathv.github.io/pycon2014-r/explore/tidy.html
+### Problema: Organizar los datos en formas que faciliten la manipulación, el análisis y la sintetización
+     
+   Data-wrangling, Tidy data -> https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf http://openrefine.org http://vita.had.co.nz/papers/tidy-data.pdf https://ramnathv.github.io/pycon2014-r/explore/tidy.html
 
 Todos estos problemas son comunes en un proceso que maneje información para un objetivo específico. Si no existe un objetivo definido para el cual usted está recolectando, almacenando, analizando, sintetizando la información empiece por ahí. **¿Para qué?, ¿Qué espero producir con esta información?** plantee un proceso a la inversa, desde el **¿para qué?** y devuélvase advirtiendo cada una de las situaciones que exponemos antes hasta llegar al momento de la **recolección** de los datos.
 
