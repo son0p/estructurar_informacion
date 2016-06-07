@@ -15,78 +15,29 @@
 Recolecta huellas y rastros para elaborar una hipótesis
 ** Fenomenos
 
-* Presentación de problemas
-* Recolección de problemas
-* Tareas
----
-* Notas sueltas
-
-
-referente http://opendatahandbook.org/
-** beneficio de exponer datos :
-mejora credibilidad, investigaciones reproducibles, la comunidad puede tener formas de ver los datos que ud no imagina (bueno o malo).
-*** ¿cómo invitar al cliente a generar datos y porqué?
-referente para casos divulgación: movimiento explorable explanations http://worrydream.com/ExplorableExplanations/
-movimientos reproducible research, (+ud puede decir lo que sea pero a la gente ya no se le puede meter los dedos a la boca)
-*** Corrientes
-
-*** Reproducible research
-(https://www.coursera.org/course/repdata/)
- is the idea that data analyses, and more generally, scientific claims, are published with their data and software code so that others may verify the findings and build upon them.
-
-*** Tener versiones de los datos (DAT http://dat-data.com/ )
-
-*** Open Data
-muy potente a nivel gubernamental, un agente extranjero de verificación podría exigir este tipo de prácticas en algún proceso.
-¿what the white house needs from you? https://www.oreilly.com/ideas/what-the-white-house-needs-from-you
-http://datos.gov.co/frm/buscador/frmBuscador.aspx  
-
-**** datos abiertos de colombia
-Colombia puede ser medido por organismos internacionales por el indicador de “que tanto tiene abiertos sus datos”
-Participación pública
-
-Eduard Tufte, Envisioning information
-Escaping flatland (otra prespectiva, mirada de águila, ver el panorama completo)
-Micro/macro readings (comparaciones en cuanto a la escala)
-Layering and separation (separaciones y capas)
-Small multiples (series, repetición de un aspecto particular, múltiples miradas de lo mismo)
-Color and information (rangos de información agrupadas)
-Narratives of space and time
-
-
-** Productividad
-
-*** No repetirse, avanzar sobre las bases de otro
-
-*** Mostrar:
-Comparación:La visualización de los ascensores http://www.ft.com/intl/cms/s/2/1392ab72-64e2-11e4-ab2d-00144feabdc0.html#axzz3nKcNiP71
-Comportamiento comunidad: La visualización de los visualizacion de contribuciones  http://ghv.artzub.com/#repo=art-of-node&climit=100&user=maxogden
-Investigación:Trenes alemania https://mbtaviz.github.io/
-Presentación de una cronica: el peor estado para ser negro e ir a la escuela publica http://www.tampabay.com/projects/2015/investigations/pinellas-failure-factories/chart-failing-black-students/# Relación de un fenómeno con el territori https://twitterdata.cartodb.com/viz/26791406-33c7-11e5-b571-7054d21a95e5/public_map http://bibliolabs.cc/mapas/RecorridoSanCristobal/
-
-*** Deseamos que queden informados en:
-
-**** Datos abiertos
+** Deseamos que queden informados en:
+*** Datos abiertos
 Sacar beneficio de unos unos datos dejando una herramienta para los otros http://www.theguardian.com/world/ng-interactive/2014/aviation-100-years
-Transparencia Corriente gobierno USA
+Transparencia 
 Un estudio o tecnología no es radical ni revolucionaria si no beneficia a todos
-Obama firma decreto para que por defecto, todo los datos sean legíbles por máquina. (no pdf)
+Legal, Obama firma decreto para que por defecto, todo los datos sean legíbles por máquina. (no pdf)
 data.gov
 Estado del gobierno colombiano
 Moda: data is beautiful
 
-**** DataSets
+*** DataSets
 Repositorios de datos que cualquiera puede usar
 Transparencia porque se puede reproducir la investigación
 Interconección de los datos
 Reusar investigaciones de otros, partir de algo
 
-**** Visualización
+*** Visualización
 Extraer del informe/investigación puntos relevantes y mostrarlos de una manera insólita o novedsa http://worrydream.com/ExplorableExplanations/
 
-
-*** Educados en:
-Exponerle a sus clientes las posibilidades que generan los datos abiertos
+** Educados en:
+*** Estructurar información
+Como resolver problemas de estructura de la información usando un Wiki y/o Emacs-Org
+Exponer las posibilidades que generan los datos abiertos
 Es un punto de partida para procesos posteriores.
 Referente la corriente ecológica
 Que beneficios le puede dar a una empresa cultural abrir los datos?
@@ -99,16 +50,69 @@ Relaciones
 Formatos (csv)
 Amigable
 
-**** y con herramientas:
+** y con herramientas:
+*** Doku-Wiki
+*** Emacs-Org
+*** GeoJson http://geojson.io/#map=2/20.0/0.0
+*** Raw http://raw.densitydesign.org/
+*** DataSets
 Algunos DataSets seleccionados que sean relevantes a sus investigaciones
 https://catalog.data.gov/dataset/teachers-use-of-educational-technology-in-u-s-public-schools-2009
-http://geojson.io/#map=2/20.0/0.0
-Raw http://raw.densitydesign.org/
+
+* Presentación de problemas
+* Recolección de problemas
+* Tareas
+
+
+#+LaTeX: \pagebreak
+
+
+
+* /Notas sueltas/
+
+
+referente http://opendatahandbook.org/
+** beneficio de exponer datos :
+mejora credibilidad, investigaciones reproducibles, la comunidad puede tener formas de ver los datos que ud no imagina (bueno o malo).
+*** ¿Cómo invitar al cliente a generar datos y porqué?
+Referente para casos divulgación: movimiento explorable explanations http://worrydream.com/ExplorableExplanations/
+Movimientos reproducible research, (ud. puede decir lo que sea pero a la gente ya no se le puede meter los dedos a la boca)
+*** Corrientes
+
+**** Reproducible research
+(https://www.coursera.org/course/repdata/)
+ is the idea that data analyses, and more generally, scientific claims, are published with their data and software code so that others may verify the findings and build upon them.
+
+**** Tener versiones de los datos (DAT http://dat-data.com/ )
+**** Open Data
+Muy potente a nivel gubernamental, un agente extranjero de verificación podría exigir este tipo de prácticas en algún proceso.
+¿What the white house needs from you? https://www.oreilly.com/ideas/what-the-white-house-needs-from-you
+http://datos.gov.co/frm/buscador/frmBuscador.aspx  
+**** Datos abiertos de colombia
+Colombia puede ser medido por organismos internacionales por el indicador de “que tanto tiene abiertos sus datos”
+Participación pública
 
 
 
 
 
 
+** Productividad
+*** No repetirse, avanzar sobre las bases de otro
+** Mostrar:
+Comparación:La visualización de los ascensores http://www.ft.com/intl/cms/s/2/1392ab72-64e2-11e4-ab2d-00144feabdc0.html#axzz3nKcNiP71
+Comportamiento comunidad: La visualización de los visualizacion de contribuciones  http://ghv.artzub.com/#repo=art-of-node&climit=100&user=maxogden
+Investigación:Trenes alemania https://mbtaviz.github.io/
+Presentación de una cronica: el peor estado para ser negro e ir a la escuela publica http://www.tampabay.com/projects/2015/investigations/pinellas-failure-factories/chart-failing-black-students/# Relación de un fenómeno con el territori https://twitterdata.cartodb.com/viz/26791406-33c7-11e5-b571-7054d21a95e5/public_map http://bibliolabs.cc/mapas/RecorridoSanCristobal/
 
 
+
+** Maneras de explorar los datos
+Recomendaciones de Eduard Tufte, Envisioning information
+
+*** Escaping flatland (otra prespectiva, mirada de águila, ver el panorama completo)
+*** Micro/macro readings (comparaciones en cuanto a la escala)
+*** Layering and separation (separaciones y capas)
+*** Small multiples (series, repetición de un aspecto particular, múltiples miradas de lo mismo)
+*** Color and information (rangos de información agrupadas)
+*** Narratives of space and time
