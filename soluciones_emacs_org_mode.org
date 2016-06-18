@@ -1,7 +1,11 @@
+* Instalar Emacs, Org-mode
+** Emacs para Windows https://sourceforge.net/projects/emacsbinw64/
 * Problema: Extraer Información
 ** Texto capturado de un PDF
+*** TODO Extraer un PDF a txt
+pdftotext rompiendo\ el\ círculo\ vicioso.pdf -layout
 ** Estructura de Arbol / Outline
-*** Subtitulo 2
+*** [#B] Sbtuitulo 2
 **** Lista
 - Item no numerado
 - Item 2 no numerado
@@ -11,15 +15,10 @@
      - [ ] checkbox 2
      - [ ] checkbox 3
 
-** Relacionar Información con Tareas y Fechas
-*** TODO Aprender a ciclar una tarea
-*** Schedule  
-SCHEDULED: <2016-06-08 Wed>
-*** Deadline 
-DEADLINE: <2016-06-07 Tue>
-*** Timestamp  <2016-06-08 Wed>
+*
 * Problema: Clasificar Información
 ** Foco / Contexto
+*** TODO De este párrafo separar el foco en un ítem
 "Las convocatorias públicas a proyectos culturales son uno de los aciertos más importantes  en los últimos años. Abrir las puertas a proyectos nuevos y diversos, sin que la elección  esté mediada por afinidad política es un avance fundamental en una sociedad democrática.  Las becas de creación han hecho que muchos artistas puedan desarrollar sus proyectos de  una manera digna y que podamos ver cada año nuevas propuestas que refrescan la escena  artística. Sin embargo, una de las debilidades de este proceso es la formación, Medellín es  una ciudad desigual, solo el 20% de los jóvenes accede a la Universidad, es decir que más  del 80% de los proyectos comunitarios no cuentan con la formación necesaria en muchas  ocasiones para participar en las convocatorias, o si lo hacen no acceden a ellas, ya que la  calificación es inferior a la media. Esta pregunta está en el aire, se han hecho algunos  esfuerzos, pero todavía quedan muchos procesos por fuera de la posibilidad de acceder a  estos recursos."
 ** Asunto / Comentario
 ** Establecido / Nuevo
@@ -39,9 +38,14 @@ grep cultura ~/daquina/dataColciencias/*.*
 
 * Problema: Relacionar Información
 ** Relacionar Información con Tareas y Fechas
-*** TODO 
-*** Schedule, Deadline, Timestamp
-** Usando Tags
+*** TODO Aprender a ciclar una tarea
+*** DONE Schedule  
+CLOSED: [2016-06-08 Wed 12:03] SCHEDULED: <2016-06-08 Wed>
+*** DONE Deadline 
+CLOSED: [2016-06-08 Wed 11:38] DEADLINE: <2016-06-07 Tue>
+*** Timestamp  <2016-06-08 Wed>
+
+** Usando Tags                              :apreder:informacion:estructura:
 :LOGBOOK:
 CLOCK: [2016-05-29 Sun 18:38]--[2016-05-29 Sun 18:44] =>  0:06
 :END:
@@ -54,10 +58,11 @@ C-c a m Busca los tags en un documento
 
 * Problema: Escalar el sistema de información
 
-** Importar
-
+** Buscar un término en una carpeta con muchos archivos
+*** TODO Usar grep en múltiples archivos
+*** TODO Usar tags en múltiples archivos
+** Importar 
 * Problema: Compartir y colaborar con la información 
-
 * Problema: Presentar la información
 
 ** Tablas
@@ -78,17 +83,6 @@ http://www.elmundo.com/portal/cultura/cultural/el_caso_del_presupuesto_a_la_cult
 | 2012 |              | 42000000000 |
 |      |              |             |
 #+TBLFM: @3$3=@4$3-21000000000
-
-
-
-
-
-
-
-
-
-
-
 
 
 

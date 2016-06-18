@@ -74,7 +74,7 @@ https://catalog.data.gov/dataset/teachers-use-of-educational-technology-in-u-s-p
 referente http://opendatahandbook.org/
 ** beneficio de exponer datos :
 mejora credibilidad, investigaciones reproducibles, la comunidad puede tener formas de ver los datos que ud no imagina (bueno o malo).
-*** ¿Cómo invitar al cliente a generar datos y porqué?
+*** ¿Cómo invitar a generar datos y porqué?
 Referente para casos divulgación: movimiento explorable explanations http://worrydream.com/ExplorableExplanations/
 Movimientos reproducible research, (ud. puede decir lo que sea pero a la gente ya no se le puede meter los dedos a la boca)
 *** Corrientes
@@ -100,7 +100,7 @@ Participación pública
 ** Productividad
 *** No repetirse, avanzar sobre las bases de otro
 ** Mostrar:
-Comparación:La visualización de los ascensores http://www.ft.com/intl/cms/s/2/1392ab72-64e2-11e4-ab2d-00144feabdc0.html#axzz3nKcNiP71
+Comparación: La visualización de los ascensores http://www.ft.com/intl/cms/s/2/1392ab72-64e2-11e4-ab2d-00144feabdc0.html#axzz3nKcNiP71
 Comportamiento comunidad: La visualización de los visualizacion de contribuciones  http://ghv.artzub.com/#repo=art-of-node&climit=100&user=maxogden
 Investigación:Trenes alemania https://mbtaviz.github.io/
 Presentación de una cronica: el peor estado para ser negro e ir a la escuela publica http://www.tampabay.com/projects/2015/investigations/pinellas-failure-factories/chart-failing-black-students/# Relación de un fenómeno con el territori https://twitterdata.cartodb.com/viz/26791406-33c7-11e5-b571-7054d21a95e5/public_map http://bibliolabs.cc/mapas/RecorridoSanCristobal/
