@@ -1,0 +1,10 @@
+17-Jun-16 Arma sensores                       inventario:sensor:aqa                                         5                     5
+                                              unloquer:checho                                              -5                     0
+17-Jun-17 Venta sensor                        ingresos:venta:sensor:partes                        $200,000.00           $200,000.00
+                                              Federico López                                     $-200,000.00                     0
+17-Jun-17 Sale un sensor                      inventario:sensor:aqa:precio:full                            -1                    -1
+                                              cliente:persona:Federico Lopez                                1                     0
+17-Jun-18 llegan GPS's                        inventario:componente:gps                                     5                     5
+                                              Gustavo Galeano                                              -5                     0
+17-Jun-19 Pago armado sensores                egresos:comision:armado:checho                      $-57,000.00           $-57,000.00
+                                              unloquer:checho                                      $57,000.00                     0

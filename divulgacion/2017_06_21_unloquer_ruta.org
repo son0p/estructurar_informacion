@@ -1,0 +1,62 @@
+#+TITLE:      unloquer_ruta
+#+AUTHOR:     Federico Lopez
+#+EMAIL:      fede2001@gmail.com
+#+OPTIONS:    H:3 num:nil toc:t \n:nil ::t |:t ^:t -:t f:t *:t tex:t d:(HIDE) tags:not-in-toc
+#+STARTUP:    align fold nodlcheck hidestars oddeven lognotestate
+#+SEQ_TODO:   TODO(t) INPROGRESS(i) WAITING(w) | DONE(d) CANCELED(c)
+#+TAGS:       Write(w) Update(u) Fix(f) Check(c) 
+#+LANGUAGE:   en
+#+PRIORITIES: A C B
+#+CATEGORY:   un/loquer
+#+CONSTANTS: pi=3.14159265358979323846
+
+* Conocernos                                                            :Fix:
+  DEADLINE: <2017-06-21 Wed 17:30>
+  ¿Porqué estamos acá?
+- Embale para hacer usable el exceso de info
+- Que dure 100 años
+- Máquina, ayudame
+
+* Planteamientos
+** TODO ¿Estructurar conocimiento usando niveles de indentación? [[../../../Documents/eBooks/theInformation][The Information by James Glick]]
+** TODO ¿unidad significativa?
+*** TODO ¿parrafo? ¿cómo lo relaciono? ¿tags?
+** Deseamos que queden informados en:
+*** org-mode
+**** TODO lista si hay un problema o se divide en varias 
+***** TODO dividida 1
+***** TODO dividida 2
+**** TODO Agenda
+**** TODO Timeline
+**** TODO Tags
+**** TODO Propiedades
+*** Ledger 
+**** Presupuesto [[~/unloquer/AQA/costos.dat][costos AQA]]  [[~/builds/estructurar_informacion/assets/example_ledger.txt][example_ledger.txt]]
+**** Consultas
+     consultar una categoria ;;       ledger -f example_ledger.txt register costo
+     consulta con filtro     ;;       ledger -f example_ledger.txt register costo and not taller
+     ingresos egresos        ;;       ledger -f example_ledger.txt register egresos ingresos
+     balance                 ;;       ledger -f example_ledger.txt balance
+     inventario              ;;       ledger -f example_ledger.txt register inventario:sensor
+     filtro fecha            ;;       ledger -f example_ledger.txt -p 2017/06 register egresos ingresos
+
+**** Exportar
+     html                    ;;   ./ledger2html --style css/default.css --title "Cuentas AQA 2017"  -f ~/builds/estructurar_informacion/assets/example_ledger.txt   -p 2017  balance egresos ingresos  > ~/builds/estructurar_informacion/assets/costosAQAMayo.html
+     csv                     ;;    ledger -f example_ledger.txt  --csv-format  -p2017 register costo
+     gnuplot  /contrib       ;;    ./report -J  -f ~/builds/estructurar_informacion/assets/example_ledger.txt reg ingresos egresos  -p 2017
+
+** Educados en:
+*** Estructurar información
+**** Línea de tiempo
+***** Buscar fechas \b[0-9]\{4\}\b
+**** Etiquetas
+**** Relaciones
+**** Formatos (csv)
+** y con herramientas:
+*** Emacs-Org
+**** pdftotext -layout <file>
+**** org-md-export-to-markdown
+
+
+* 
+* 
